@@ -1,0 +1,10 @@
+Data Normalization:
+
+1)Simple Feature Scaling
+X(new)=X(old)/X(max)
+
+2)Min-Max
+X(new)=X(old)-X(min)/X(max)-X(min)
+
+3)Z-score
+X(new)=X(old)-μ(Mui)(Avg)/σ(Standard Deviation)
